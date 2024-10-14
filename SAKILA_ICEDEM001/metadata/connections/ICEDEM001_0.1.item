@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_kBnWUIGUEe-wcZL6wXKXUw" name="ICEDEM001" id="_Sts-gIGUEe-wcZL6wXKXUw" label="ICEDEM001" dataPackage="_R-MXsIGVEe-wcZL6wXKXUw" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://demo.iceinformatics.com:3306/sakila?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="enc:system.encryption.key.v1:WG6GsyzaD/2mN/Sl9EDxJpKaHI+aR9N/4pk6moB4bSV73fuf" ServerName="demo.iceinformatics.com" DatasourceName="" FileFieldName="" SID="sakila" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" StandardSQL="true" SQLMode="false" UiSchema="" supportNLS="false">
+    <taggedValue xmi:id="_kBnWUYGUEe-wcZL6wXKXUw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_kB97oIGUEe-wcZL6wXKXUw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_kCA-8IGUEe-wcZL6wXKXUw" tag="Status" value=""/>
+    <taggedValue xmi:id="_kCA-8YGUEe-wcZL6wXKXUw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_kCA-8oGUEe-wcZL6wXKXUw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_kCA-84GUEe-wcZL6wXKXUw" tag="Description" value=""/>
+    <taggedValue xmi:id="_kCA-9IGUEe-wcZL6wXKXUw" tag="Author" value=""/>
+    <taggedValue xmi:id="_kCA-9YGUEe-wcZL6wXKXUw" tag="otherParameter"/>
+    <taggedValue xmi:id="_kFPSEIGUEe-wcZL6wXKXUw" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_kFPSEYGUEe-wcZL6wXKXUw" tag="DB ProductVersion" value="8.0.36"/>
+    <taggedValue xmi:id="_kFPSEoGUEe-wcZL6wXKXUw" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_kBnWUoGUEe-wcZL6wXKXUw" key="CONN_PARA_KEY_USERNAME" value="root"/>
+    <parameters xmi:id="_tV6zQIGUEe-wcZL6wXKXUw" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_R-MXsIGVEe-wcZL6wXKXUw" name="sakila" dataManager="_kBnWUIGUEe-wcZL6wXKXUw"/>
+</xmi:XMI>

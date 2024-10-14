@@ -1,1 +1,8 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_pQ37YIGSEe-wcZL6wXKXUw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ ]
+} ]
