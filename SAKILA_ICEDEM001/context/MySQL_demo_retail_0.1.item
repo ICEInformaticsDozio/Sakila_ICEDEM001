@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_FTKVkIVxEe-COPcoV22jAw" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_FTKVkYVxEe-COPcoV22jAw" comment="" name="connection_awsmysql_host" prompt="connection_awsmysql_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demo.iceinformatics.com"/>
+  <contextParameter xmi:id="_FTKVkoVxEe-COPcoV22jAw" comment="" name="connection_awsmysql_port" prompt="connection_awsmysql_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_FTKVk4VxEe-COPcoV22jAw" comment="" name="connection_awsmysql_username" prompt="connection_awsmysql_username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+  <contextParameter xmi:id="_FTKVlIVxEe-COPcoV22jAw" comment="" name="connection_awsmysql_password" prompt="connection_awsmysql_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:JcaW4rBK20Cmf4pkZ4SJ4zFxVz8aw418MsNGpopn68p+fWxE"/>
+  <contextParameter xmi:id="_FTKVlYVxEe-COPcoV22jAw" comment="" name="connection_awsmysql_database" prompt="connection_awsmysql_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demo_retail"/>
+</talendfile:ContextType>

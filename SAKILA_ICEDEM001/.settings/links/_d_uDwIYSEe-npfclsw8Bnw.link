@@ -1,0 +1,42 @@
+{
+  "itemId" : "_d_uDwIYSEe-npfclsw8Bnw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_-WvxQIYZEe-npfclsw8Bnw",
+    "parameterList" : [ {
+      "id" : "_-W9zsoYZEe-npfclsw8Bnw",
+      "name" : "connection_mssql_username"
+    }, {
+      "id" : "_-W9zsYYZEe-npfclsw8Bnw",
+      "name" : "connection_mssql_port"
+    }, {
+      "id" : "_-W9ztIYZEe-npfclsw8Bnw",
+      "name" : "connection_mssql_database"
+    }, {
+      "id" : "_-W9zs4YZEe-npfclsw8Bnw",
+      "name" : "connection_mssql_password"
+    }, {
+      "id" : "_-W9zsIYZEe-npfclsw8Bnw",
+      "name" : "connection_mssql_host"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_3rbc4IYmEe-npfclsw8Bnw",
+    "parameterList" : [ {
+      "id" : "_FTKVkoVxEe-COPcoV22jAw",
+      "name" : "connection_awsmysql_port"
+    }, {
+      "id" : "_FTKVlYVxEe-COPcoV22jAw",
+      "name" : "connection_awsmysql_database"
+    }, {
+      "id" : "_FTKVkYVxEe-COPcoV22jAw",
+      "name" : "connection_awsmysql_host"
+    }, {
+      "id" : "_FTKVk4VxEe-COPcoV22jAw",
+      "name" : "connection_awsmysql_username"
+    }, {
+      "id" : "_FTKVlIVxEe-COPcoV22jAw",
+      "name" : "connection_awsmysql_password"
+    } ]
+  } ]
+}

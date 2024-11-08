@@ -1,0 +1,23 @@
+{
+  "itemId" : "_9EE4QIVEEe-COPcoV22jAw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_FS2zkIVxEe-COPcoV22jAw",
+    "parameterList" : [ {
+      "id" : "_FTKVkYVxEe-COPcoV22jAw",
+      "name" : "connection_awsmysql_host"
+    }, {
+      "id" : "_FTKVkoVxEe-COPcoV22jAw",
+      "name" : "connection_awsmysql_port"
+    }, {
+      "id" : "_FTKVk4VxEe-COPcoV22jAw",
+      "name" : "connection_awsmysql_username"
+    }, {
+      "id" : "_FTKVlIVxEe-COPcoV22jAw",
+      "name" : "connection_awsmysql_password"
+    }, {
+      "id" : "_FTKVlYVxEe-COPcoV22jAw",
+      "name" : "connection_awsmysql_database"
+    } ]
+  } ]
+}

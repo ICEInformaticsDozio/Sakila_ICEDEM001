@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_-W9MoIYZEe-npfclsw8Bnw" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_-W9zsIYZEe-npfclsw8Bnw" comment="" name="connection_mssql_host" prompt="connection_mssql_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ICEDEM001"/>
+  <contextParameter xmi:id="_-W9zsYYZEe-npfclsw8Bnw" comment="" name="connection_mssql_port" prompt="connection_mssql_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433"/>
+  <contextParameter xmi:id="_-W9zsoYZEe-npfclsw8Bnw" comment="" name="connection_mssql_username" prompt="connection_mssql_username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lorenzocolombo"/>
+  <contextParameter xmi:id="_-W9zs4YZEe-npfclsw8Bnw" comment="" name="connection_mssql_password" prompt="connection_mssql_password?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Lorenzo2024!"/>
+  <contextParameter xmi:id="_-W9ztIYZEe-npfclsw8Bnw" comment="" name="connection_mssql_database" prompt="connection_mssql_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="demo_migration"/>
+</talendfile:ContextType>
